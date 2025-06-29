@@ -11,9 +11,10 @@ My first Android application built with Kotlin and Jetpack Compose!
 - 📱 Modern UI with Material Design
 
 ## Screenshots
-![Screenshot_20250629_073944_TodoApp](https://github.com/user-attachments/assets/193c6b58-3779-473e-9dac-952253e72b5f)
+<img src="![Screenshot_20250629_073944_TodoApp](https://github.com/user-attachments/assets/193c6b58-3779-473e-9dac-952253e72b5f)" alt="Sample Image" style="width:50%; height:auto;">
 
-![Screenshot_20250629_073955_TodoApp](https://github.com/user-attachments/assets/a5fe6c84-53c2-409d-b769-0da0198c51df)
+<img src="![Screenshot_20250629_073955_TodoApp](https://github.com/user-attachments/assets/a5fe6c84-53c2-409d-b769-0da0198c51df)" alt="Sample Image" style="width:50%; height:auto;">
+
 
 
 ## Tech Stack
